@@ -1,0 +1,12 @@
+2021-02-21 23:26:04.2711|INFO|MovieLibrary.Program|Movie Manager loaded.
+2021-02-21 23:26:28.6435|INFO|MovieLibrary.Program|Users choice = 1
+2021-02-21 23:26:52.6091|INFO|MovieLibrary.Program|Users choice = Q
+2021-02-21 23:26:52.6091|INFO|MovieLibrary.Program|Program ended
+2021-02-21 23:29:23.2743|INFO|MovieLibrary.Program|Movie Manager loaded.
+2021-02-21 23:29:35.2473|INFO|MovieLibrary.Program|Users choice = 1
+2021-02-21 23:29:45.3720|INFO|MovieLibrary.Program|Users choice = 2
+2021-02-21 23:29:58.8073|INFO|MovieLibrary.Program|Users choice = 
+2021-02-21 23:30:00.7964|INFO|MovieLibrary.Program|Movie Manager loaded.
+2021-02-21 23:33:32.7528|INFO|MovieLibrary.Program|Users choice = 
+2021-02-21 23:33:35.2591|ERROR|MovieLibrary.MovieManager|There has been an Exception Could not find file 'C:\Users\Sumin\Desktop\DotNetDb\MovieLibrary\movieys.csv'.
+2021-02-21 23:33:35.2852|INFO|MovieLibrary.Program|Movie Manager loaded.
